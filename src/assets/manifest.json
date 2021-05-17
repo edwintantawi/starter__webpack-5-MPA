@@ -1,0 +1,11 @@
+{
+  "name": "webpack 5 - multipages",
+  "short_name": "webpack 5",
+  "description": "webpack 5",
+  "lang": "en-US",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "/index.html",
+  "background_color": "#fff",
+  "theme_color": "#fff"
+}
